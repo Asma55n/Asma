@@ -2,3 +2,4 @@ read price1, price 2
 sum=price1+price2
 print sum
 if sum is greater than 500 then discount else no discount
+if card then give point
